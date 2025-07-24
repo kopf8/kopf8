@@ -5,18 +5,18 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=kopf8&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="left">
-- 👋 Hi, I’m Maria Kirsanova<br>
-- 👀 I’m interested in coding & travelling<br>
-- 📈📊 I’m currently learning Data Analytics<br>
-- 🤝 I’m looking to collaborate on different projects<br>
-- 📨 How to reach me:<br>
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kopf82)
-<br>
+
+- 👋 Hi, I’m Maria Kirsanova
+- 👀 I’m interested in coding & travelling
+- 📈📊 I’m currently learning Data Analytics
+- 🤝 I’m looking to collaborate on different projects
+- 📨 How to reach me:
+
+    [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kopf82)
+
 - My stack:
-</div>
-<br>
-<br>
+
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="Yaml" width="40" height="40"/>&nbsp;
