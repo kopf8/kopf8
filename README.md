@@ -43,7 +43,7 @@
 <br>
 <div align=center>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kopf8&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kopf8&theme=vision-friendly-dark)](https://git.io/streak-stats)
 </div>
 
 <!---
