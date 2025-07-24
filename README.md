@@ -13,6 +13,7 @@
 - 📨 How to reach me:
 
     [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kopf82)
+    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariya-kirsanova/)
 
 - My stack:
 
@@ -50,8 +51,14 @@
 <br>
 <br>
 <br>
+Feel free to star my repositories, especially if you use any of my code in your own projects 🙂
+<br>
+<br>
+<br>
 <div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kopf8&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
 </div>
 
 <!---
