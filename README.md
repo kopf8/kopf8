@@ -6,9 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=kopf8&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m Maria Kirsanova
-- 👀 I’m interested in coding & travelling
-- 📈📊 I’m currently learning Data Analytics
+- 👋 Hi, I’m Maria Kirsanova, backend developer
+- 👀 I’m interested in coding, travelling & sports
 - 🤝 I’m looking to collaborate on different projects
 - 📨 How to reach me:
 
