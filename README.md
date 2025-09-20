@@ -48,6 +48,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
 </div>
+<div align="center">
+  <img src="https://img.icons8.com/officexs/40/1c.png" title="1C" alt="1C" width="40" height="40"/>
 <br>
 <br>
 <br>
